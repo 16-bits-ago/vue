@@ -44,7 +44,7 @@
     <input type="radio" id="two" value="Два" v-model="picked" />
     <label for="two">operand2</label>
     <br />
-    <span>Выбрано: {{ picked }}</span>
+    <span>Выбрано: {{ picked }} </span>
     </div>
   </div>
 </template>
